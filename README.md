@@ -6,7 +6,7 @@ Shows how many people visit your web application.
 
 [counter.dev](https://counter.dev)
 
-## Check out the demo
+## Demo
 
 [Open demo](https://counter.dev/app#demo)
 
